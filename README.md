@@ -5,9 +5,9 @@
 
 |Initial State|Successor Function|
 |---|---|
-|![initial state 111](./images/111.png)|![move top near right](./images/211.png)![move top far right](./images/311.png)|
-|![initial state 231](./images/231.png)|![331](./images/331.png)![131](./images/131.png)![211](./images/211.png)|
-|**Goal Test**|![Goal Test](./images/333.png)|
+|![initial state 111](./images/111.PNG)|![move top near right](./images/211.PNG)![move top far right](./images/311.PNG)|
+|![initial state 231](./images/231.PNG)|![331](./images/331.PNG)![131](./images/131.PNG)![211](./images/211.PNG)|
+|**Goal Test**|![Goal Test](./images/333.PNG)|
 ## Actions
 |Direction|Near|Far|
 |---|---|---|
@@ -15,7 +15,7 @@
 |**To lift**|![near lift](./images/ln.png)|![far lift](./images/lf.png)|
 
 ## States Tree in Depth 2
-![States Tree in Depth 2](./images/treeDepth2.png)
+![States Tree in Depth 2](./images/treeDepth2.PNG)
 
 This solution is ispired by Dr. Sara El-Sayed El-Metwally [blog posts](http://sara-elmetwally.blogspot.com.eg/) about AI.
 ### References
