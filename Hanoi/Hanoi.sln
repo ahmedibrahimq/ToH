@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanoi", "Hanoi.csproj", "{48AD6D4F-93CD-4791-95B7-352AFD7F442E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hanoi.GUI", "..\hanoi.GUI\hanoi.GUI.csproj", "{B643FC42-9390-4393-9C9C-1FC7CA446E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48AD6D4F-93CD-4791-95B7-352AFD7F442E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AD6D4F-93CD-4791-95B7-352AFD7F442E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AD6D4F-93CD-4791-95B7-352AFD7F442E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AD6D4F-93CD-4791-95B7-352AFD7F442E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B643FC42-9390-4393-9C9C-1FC7CA446E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B643FC42-9390-4393-9C9C-1FC7CA446E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B643FC42-9390-4393-9C9C-1FC7CA446E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B643FC42-9390-4393-9C9C-1FC7CA446E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60FE9A17-9DA6-425B-9E37-1D1DC9FFF2FF}
+	EndGlobalSection
+EndGlobal
