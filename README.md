@@ -17,7 +17,7 @@
 ## States Tree in Depth 2
 ![States Tree in Depth 2](./images/treeDepth2.PNG)
 
-This solution is ispired by Dr. Sara El-Sayed El-Metwally [blog posts](http://sara-elmetwally.blogspot.com.eg/) about AI.
+This solution is inspired by Dr. Sara El-Sayed El-Metwally [blog posts](http://sara-elmetwally.blogspot.com.eg/) about AI.
 ### References
 - [Article - Assistant Prof. Sara El-Sayed El-Metwally, AI- Simple Implementation of Uninformed Search Strategies](https://www.codeproject.com/Articles/203828/AI-Simple-Implementation-of-Uninformed-Search-Stra)
 - [CS324P - Artificial Intelligence - Assistant Prof. Eslam Foad - Department of Computer science - Faculty of Computers and Information Sciences - Mansoura University]() 
